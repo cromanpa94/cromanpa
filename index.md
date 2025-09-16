@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title"  style="background-color:#349cdc; color: white; text-align: center; width: 100%;" itemprop="headline">Me</h2>
-  <p class="post-excerpt" align="justify">In life, I enjoy traveling, spending time with friends and family, gardening, reading about Colombian and Latin American history, photography, yoga, and working out, among other pursuits. You can learn more about my hobbies and thoughts on my <a href="https://ghost.cromanpa.synology.me/">personal blog</a>. At work, I use data science, statistics, bioinformatics, and machine learning to answer questions at the intersection of ecology, evolution, and human health. Welcome to my site!</p>
+  <p class="post-excerpt" align="justify">In life, I enjoy traveling, spending time with friends and family, gardening, reading about Colombian and Latin American history, photography, yoga, and working out, among other activities. At work, I use data science, statistics, bioinformatics, and machine learning to answer questions at the intersection of ecology, evolution, and human health. Welcome to my site!</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -19,7 +19,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title" style="background-color:#349cdc; color: white; text-align: center; width: 100%;" itemprop="headline">Formal role</h2>
-  <p class="post-excerpt" align="justify">  am currently an Assistant Professor at the <a href="https://ischool.arizona.edu/people/cristian-roman-palacios">School of Information at the University of Arizona</a>. Previously, I was a staff researcher in <a href="http://atripati.bol.ucla.edu/">Aradhna Tripati</a>'s lab at UCLA, where I developed my expertise in computational approaches to understanding complex environmental and biological systems.</p>
+  <p class="post-excerpt" align="justify"> I am currently an Assistant Professor at the <a href="https://ischool.arizona.edu/people/cristian-roman-palacios">College of Information Science at the University of Arizona</a>. Previously, I was a staff researcher in <a href="http://atripati.bol.ucla.edu/">Aradhna Tripati</a>'s lab at UCLA, where I developed my expertise in computational approaches to understanding complex environmental and biological systems.</p>
 </div><!-- /.tile -->
 
 
