@@ -13,9 +13,11 @@ ads: false
 
 <p align="center">
   <img src="2019-11-21 10.51.14.jpg" width="50%" height="50%">  <br><br>
-  <b>Cristian Román-Palacios</b><br>
+  <b>Cristian Román</b><br>
   Assistant Professor<br>
   University of Arizona<br>  
-  Email: <a href="mailto:cromanpa@arizona.edu">cromanpa94@arizona.edu</a><br>  
-  Mastodon: <a rel="me" href="https://ecoevo.social/@cromanpa">@cromanpa@ecoevo.social</a>
+  <a href="mailto:cromanpa94@gmail.com">cromanpa94@gmail.com</a><br>  
+  <a rel="me" href="https://bsky.app/profile/cromanpa.bsky.social">@cromanpa.bsky.social</a>
+  <a rel="me" href="https://ghost.cromanpa.synology.me/">Personal blog</a>
+  <a rel="me" href="https://nextcloud.datadiversitylab.synology.me/apps/forms/jHioBJJ3Pw2WQeaE">Anonymous feedback form</a> 
 </p>
