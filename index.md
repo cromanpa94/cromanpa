@@ -8,18 +8,18 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title"  style="background-color:#349cdc; color: white; text-align: center; width: 100%;" itemprop="headline">Research</h2>
-  <p class="post-excerpt" align="justify">I use statistics, bioinformatics, and machine learning to answer questions, primarily at the interface between ecology and evolution. Cristian's research interests generally relate to phylogenetics, systematics, conservation biology, and the effects of climate change on biodiversity at different scales! </p>
+  <h2 class="post-title"  style="background-color:#349cdc; color: white; text-align: center; width: 100%;" itemprop="headline">Me</h2>
+  <p class="post-excerpt" align="justify">In life, I enjoy traveling, spending time with friends and family, gardening, reading about Colombian and Latin American history, photography, yoga, and working out, among other pursuits. You can learn more about my hobbies and thoughts on my <a href="https://ghost.cromanpa.synology.me/">personal blog</a>. At work, I use data science, statistics, bioinformatics, and machine learning to answer questions at the intersection of ecology, evolution, and human health. Welcome to my site!</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title" style="background-color:#349cdc; color: white; text-align: center; width: 100%;" itemprop="headline">Biography</h2>
-  <p class="post-excerpt" align="justify"> I was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! I received my bachelor's degree from Universidad del Valle, in Cali, Colombia and Ph.D. from the University of Arizona in Tucson, AZ. </p> 
+  <h2 class="post-title" style="background-color:#349cdc; color: white; text-align: center; width: 100%;" itemprop="headline">My path</h2>
+  <p class="post-excerpt" align="justify"> I was born in the Colombian Andes (Armenia, Quindío), surrounded by stunning landscapes, amazing people, and incredible biodiversity. I have moved quite a few times throughout Colombia and the US, and I am currently based in Tucson, AZ. However, I also spend a significant portion of my time exploring other places across the globe, always seeking new experiences and perspectives.</p> 
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title" style="background-color:#349cdc; color: white; text-align: center; width: 100%;" itemprop="headline">Affiliations</h2>
-  <p class="post-excerpt" align="justify"> I am currently an Assistant Professor at the <a href="https://ischool.arizona.edu/people/cristian-roman-palacios">School of Information at the University of Arizona</a>. I was a staff researcher at <a href="http://atripati.bol.ucla.edu/">Aradhna Tripati</a>'s lab at UCLA.</p>
+  <h2 class="post-title" style="background-color:#349cdc; color: white; text-align: center; width: 100%;" itemprop="headline">Formal role</h2>
+  <p class="post-excerpt" align="justify">  am currently an Assistant Professor at the <a href="https://ischool.arizona.edu/people/cristian-roman-palacios">School of Information at the University of Arizona</a>. Previously, I was a staff researcher in <a href="http://atripati.bol.ucla.edu/">Aradhna Tripati</a>'s lab at UCLA, where I developed my expertise in computational approaches to understanding complex environmental and biological systems.</p>
 </div><!-- /.tile -->
 
 
