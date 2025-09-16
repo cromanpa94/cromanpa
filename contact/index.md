@@ -19,5 +19,5 @@ ads: false
   <a href="mailto:cromanpa94@gmail.com">cromanpa94@gmail.com</a><br>  
   <a rel="me" href="https://bsky.app/profile/cromanpa.bsky.social">@cromanpa.bsky.social</a><br>  
   <a rel="me" href="https://ghost.cromanpa.synology.me/">Personal blog</a><br>  
-  <a rel="me" href="https://nextcloud.datadiversitylab.synology.me/apps/forms/jHioBJJ3Pw2WQeaE">Anonymous feedback form</a> 
+  <a rel="me" href="https://nextcloud.datadiversitylab.synology.me/apps/forms/s/zFBeP5mdXtdtdPknmP48m6tt">Anonymous feedback form</a> 
 </p>
