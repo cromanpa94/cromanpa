@@ -18,7 +18,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title" style="background-color:#349cdc; color: white; text-align: center; width: 100%;" itemprop="headline">Formal role</h2>
+  <h2 class="post-title" style="background-color:#349cdc; color: white; text-align: center; width: 100%;" itemprop="headline">Current position</h2>
   <p class="post-excerpt" align="justify"> I am currently an Assistant Professor at the <a href="https://ischool.arizona.edu/people/cristian-roman-palacios">College of Information Science at the University of Arizona</a>. Previously, I was a staff researcher in <a href="http://atripati.bol.ucla.edu/">Aradhna Tripati</a>'s lab at UCLA, where I developed my expertise in computational approaches to understanding complex environmental and biological systems.</p>
 </div><!-- /.tile -->
 
