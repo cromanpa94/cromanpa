@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: FrogMain_right_up.jpg
+  feature: laptopC.JPEG
 ---
 
 <div class="tiles">
