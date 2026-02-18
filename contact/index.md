@@ -16,8 +16,5 @@ ads: false
   <b>Cristian Román</b><br>
   Assistant Professor<br>
   University of Arizona<br>  
-  <a href="mailto:cromanpa94@gmail.com">cromanpa94@gmail.com</a><br>  
-  <a rel="me" href="https://bsky.app/profile/cromanpa.bsky.social">@cromanpa.bsky.social</a><br>  
-  <a rel="me" href="https://blog.cromanpa.synology.me/">Personal blog</a><br>  
-  <a rel="me" href="https://nextcloud.datadiversitylab.synology.me/apps/forms/s/zFBeP5mdXtdtdPknmP48m6tt">Anonymous feedback form</a> 
+  <a href="mailto:cromanpa94@gmail.com">E-mail me</a><br>  
 </p>
